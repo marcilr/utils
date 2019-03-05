@@ -1,0 +1,8 @@
+#.gitignore
+# Created Tue Mar  5 08:38:56 AKST 2019
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Files for git to ignore.
+#
+.gitignore
+monit/
