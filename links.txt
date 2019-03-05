@@ -1,0 +1,12 @@
+links.txt
+Created Tue Mar  5 08:33:10 AKST 2019
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Links related to utilities and software
+
+
+Links
+=====
+Monit - utility for monitoring services on a Unix system
+https://mmonit.com/monit/documentation/monit.html
