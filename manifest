@@ -1,5 +1,5 @@
 # manifest
-# Created Tue Mar  5 08:34:41 AKST 2019
+# Created Tue 03 Dec 2019 09:03:19 AM AKST
 # by Raymond E. Marcil <marcilr@gmail.com>
 #
 # Manifest file for use by resync script.
@@ -29,4 +29,4 @@
 # -----------------------------------------------------
 # Source                                         Target
 # -----------------------------------------------------
-ssh://git@github.com/marcilr/monit.git           monit
+ssh://git@github.com/marcilr/enstar.git          enstar
