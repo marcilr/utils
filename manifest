@@ -29,4 +29,5 @@
 # -----------------------------------------------------
 # Source                                         Target
 # -----------------------------------------------------
+ssh://git@github.com/marcilr/chugach.git         chugach
 ssh://git@github.com/marcilr/enstar.git          enstar
