@@ -7,15 +7,15 @@ Paid
 
 
 Accounts:
-  AWWU:     146072-557670
+  AWWU:           146072-557670
 
   Chugach member: #1162412
-    Sub-account    Account
-    001 (apt 2)    ??? (tenants)
-    002 (apt 1)    00212844
-    003 (util)     00212852
+    Sub-account   Account
+    001 (apt 2)   ??? (tenants)
+    002 (apt 1)   00212844
+    003 (util)    00212852
 
-  Enstar:   8502100000
+  Enstar:         8502100000
 
 
 NOTE: Chugach due on July 14th, 2020
