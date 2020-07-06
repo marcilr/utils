@@ -12,9 +12,9 @@ Accounts:
 NOTE: Chugach due on July 14th, 2020
 
 
-Date         Vendor   Amount      conf
--------------------------------------------
-07/06/2020   Enstar   $1,456.34   721090315
-07/05/2020   Enstar   $1,000.00   720930343
+Date         Vendor   Amount      Conf        Comments
+---------------------------------------------------------
+07/06/2020   Enstar   $1,456.34   721090315   Paid online
+07/05/2020   Enstar   $1,000.00   720930343   Paid online
 
 $2,456.34 - $1,000.00 = $1,456.34 (paid 07/06/2020)
