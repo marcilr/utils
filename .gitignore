@@ -5,6 +5,7 @@
 # Files for git to ignore.
 #
 .gitignore
+awwu/
 chugach/
 enstar/
 monit/
