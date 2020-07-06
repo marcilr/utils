@@ -18,7 +18,7 @@ Accounts:
   Enstar:         8502100000
 
 
-NOTE: Chugach due on July 14th, 2020
+NOTE: Chugach not due on July 14th, 2020
 
 
 Date         Vendor   Amount      Conf        Comments
@@ -28,4 +28,7 @@ Date         Vendor   Amount      Conf        Comments
                       ---------
                       $2,456.34
 
-07/05/2020   Awwu     $487.03                 Paid online
+07/05/2020   Awwu     $487.03     090040      Paid online
+
+Utilities put on joint account
+
