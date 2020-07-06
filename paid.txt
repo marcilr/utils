@@ -30,4 +30,9 @@ Date         Vendor   Amount      Conf        Comments
 
 07/05/2020   AWWU     $487.03     090040      Paid online
 
+07/06/2020   Total    2,943.37
+
 Utilities put on joint account
+
+
+2456.34 + 487.03 = 2943.37 (joint acct has 
