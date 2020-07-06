@@ -1,0 +1,20 @@
+paid.txt
+Created Mon 06 Jul 2020 10:16:31 AM AKDT
+Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Paid
+
+
+Accounts:
+  Enstar: 8502100000
+
+NOTE: Chugach due on July 14th, 2020
+
+
+Date         Vendor   Amount      conf
+-------------------------------------------
+07/06/2020   Enstar   $1,456.34   721090315
+07/05/2020   Enstar   $1,000.00   720930343
+
+$2,456.34 - $1,000.00 = $1,456.34 (paid 07/06/2020)
