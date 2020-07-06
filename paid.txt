@@ -7,7 +7,16 @@ Paid
 
 
 Accounts:
-  Enstar: 8502100000
+  AWWU:     146072-557670
+
+  Chugach member: #1162412
+    Sub-account    Account
+    001 (apt 2)    ??? (tenants)
+    002 (apt 1)    00212844
+    003 (util)     00212852
+
+  Enstar:   8502100000
+
 
 NOTE: Chugach due on July 14th, 2020
 
@@ -16,5 +25,7 @@ Date         Vendor   Amount      Conf        Comments
 ---------------------------------------------------------
 07/06/2020   Enstar   $1,456.34   721090315   Paid online
 07/05/2020   Enstar   $1,000.00   720930343   Paid online
+                      ---------
+                      $2,456.34
 
-$2,456.34 - $1,000.00 = $1,456.34 (paid 07/06/2020)
+07/05/2020   Awwu     $487.03                 Paid online
