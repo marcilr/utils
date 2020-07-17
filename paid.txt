@@ -17,18 +17,23 @@ Accounts:
 
   Enstar:         8502100000
 
+  GCI:            1001346728
+
 
 NOTE: Chugach not due on July 14th, 2020
 
 
-Date         Vendor   Amount      Conf        Comments
----------------------------------------------------------
-07/06/2020   Enstar   $1,456.34   721090315   Paid online
-07/05/2020   Enstar   $1,000.00   720930343   Paid online
+Date         Vendor   Amount      Conf          Comments
+--------------------------------------------------------------
+07/17/2020   GCI        $429.68   62459837171   Paid via phone
+                                                Put on joint acct
+
+07/06/2020   Enstar   $1,456.34   721090315     Paid online
+07/05/2020   Enstar   $1,000.00   720930343     Paid online
                       ---------
                       $2,456.34
 
-07/05/2020   AWWU     $487.03     090040      Paid online
+07/05/2020   AWWU     $487.03     090040        Paid online
 
 07/06/2020   Total    2,943.37
 
